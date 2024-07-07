@@ -45,6 +45,8 @@ if choice == "Profiling" and df is not None:
     st.title("Exploratory Data Analysis")
     profile = ProfileReport(df, explorative=True)
     st_profile_report(profile)
+
+    
 elif choice == "Profiling" and df is None:
     st.warning("Please upload a dataset first.")
 
