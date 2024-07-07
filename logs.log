@@ -9922,3 +9922,1080 @@ Increase the number of iterations (max_iter) or scale the data as shown in:
 2024-07-07 15:31:16,537:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\autoML.py:4: DeprecationWarning: `import pandas_profiling` is going to be deprecated by April 1st. Please use `import ydata_profiling` instead.
   from pandas_profiling import ProfileReport
 
+2024-07-07 15:31:55,184:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-07 15:31:55,184:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-07 15:31:55,184:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-07 15:31:55,184:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-07 15:31:56,407:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\numba\core\decorators.py:262: NumbaDeprecationWarning: [1mnumba.generated_jit is deprecated. Please see the documentation at: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-generated-jit for more information and advice on a suitable replacement.[0m
+  warnings.warn(msg, NumbaDeprecationWarning)
+
+2024-07-07 15:31:56,417:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\visions\backends\shared\nan_handling.py:51: NumbaDeprecationWarning: [1mThe 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.[0m
+  def hasna(x: np.ndarray) -> bool:
+
+2024-07-07 15:31:56,653:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\autoML.py:4: DeprecationWarning: `import pandas_profiling` is going to be deprecated by April 1st. Please use `import ydata_profiling` instead.
+  from pandas_profiling import ProfileReport
+
+2024-07-07 15:53:24,283:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-07 15:53:24,283:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-07 15:53:24,283:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-07 15:53:24,283:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-07 15:53:25,470:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\numba\core\decorators.py:262: NumbaDeprecationWarning: [1mnumba.generated_jit is deprecated. Please see the documentation at: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-generated-jit for more information and advice on a suitable replacement.[0m
+  warnings.warn(msg, NumbaDeprecationWarning)
+
+2024-07-07 15:53:25,480:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\visions\backends\shared\nan_handling.py:51: NumbaDeprecationWarning: [1mThe 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.[0m
+  def hasna(x: np.ndarray) -> bool:
+
+2024-07-07 15:53:25,717:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\autoML.py:4: DeprecationWarning: `import pandas_profiling` is going to be deprecated by April 1st. Please use `import ydata_profiling` instead.
+  from pandas_profiling import ProfileReport
+
+2024-07-07 15:54:54,407:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-07 15:54:54,407:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-07 15:54:54,407:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-07 15:54:54,409:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-07 15:55:07,297:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\dataframe_report.py:74: FutureWarning: iteritems is deprecated and will be removed in a future version. Use .items instead.
+  all_source_names = [cur_name for cur_name, cur_series in source_df.iteritems()]
+
+2024-07-07 15:55:07,297:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\dataframe_report.py:109: FutureWarning: iteritems is deprecated and will be removed in a future version. Use .items instead.
+  filtered_series_names_in_source = [cur_name for cur_name, cur_series in source_df.iteritems()
+
+2024-07-07 15:55:07,312:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 15:55:07,985:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 15:55:08,608:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 15:55:09,143:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 15:55:09,734:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 15:55:10,262:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 15:55:10,763:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 15:55:11,305:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 15:55:11,949:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_cat.py:28: FutureWarning: iteritems is deprecated and will be removed in a future version. Use .items instead.
+  for item in category_counts.iteritems():
+
+2024-07-07 15:57:00,272:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-07 15:57:00,272:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-07 15:57:00,272:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-07 15:57:00,272:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-07 15:57:14,329:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\dataframe_report.py:74: FutureWarning: iteritems is deprecated and will be removed in a future version. Use .items instead.
+  all_source_names = [cur_name for cur_name, cur_series in source_df.iteritems()]
+
+2024-07-07 15:57:14,331:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\dataframe_report.py:109: FutureWarning: iteritems is deprecated and will be removed in a future version. Use .items instead.
+  filtered_series_names_in_source = [cur_name for cur_name, cur_series in source_df.iteritems()
+
+2024-07-07 15:57:14,342:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 15:57:14,939:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 15:57:15,517:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 15:57:16,052:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 15:57:16,784:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 15:57:17,255:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 15:57:17,741:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 15:57:18,230:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 15:57:18,884:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_cat.py:28: FutureWarning: iteritems is deprecated and will be removed in a future version. Use .items instead.
+  for item in category_counts.iteritems():
+
+2024-07-07 15:59:11,433:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-07 15:59:11,433:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-07 15:59:11,433:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-07 15:59:11,433:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-07 15:59:23,656:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\dataframe_report.py:74: FutureWarning: iteritems is deprecated and will be removed in a future version. Use .items instead.
+  all_source_names = [cur_name for cur_name, cur_series in source_df.iteritems()]
+
+2024-07-07 15:59:23,656:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\dataframe_report.py:109: FutureWarning: iteritems is deprecated and will be removed in a future version. Use .items instead.
+  filtered_series_names_in_source = [cur_name for cur_name, cur_series in source_df.iteritems()
+
+2024-07-07 15:59:23,672:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 15:59:24,315:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 15:59:24,901:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 15:59:25,426:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 15:59:26,012:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 15:59:26,497:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 15:59:26,999:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 15:59:27,482:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 15:59:28,130:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_cat.py:28: FutureWarning: iteritems is deprecated and will be removed in a future version. Use .items instead.
+  for item in category_counts.iteritems():
+
+2024-07-07 20:33:50,816:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\dataframe_report.py:74: FutureWarning: iteritems is deprecated and will be removed in a future version. Use .items instead.
+  all_source_names = [cur_name for cur_name, cur_series in source_df.iteritems()]
+
+2024-07-07 20:33:50,816:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\dataframe_report.py:109: FutureWarning: iteritems is deprecated and will be removed in a future version. Use .items instead.
+  filtered_series_names_in_source = [cur_name for cur_name, cur_series in source_df.iteritems()
+
+2024-07-07 20:33:50,826:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 20:33:51,658:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 20:33:52,186:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 20:33:52,573:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 20:33:52,965:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 20:33:53,358:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 20:33:54,007:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 20:33:54,367:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 20:33:54,740:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_cat.py:28: FutureWarning: iteritems is deprecated and will be removed in a future version. Use .items instead.
+  for item in category_counts.iteritems():
+
+2024-07-07 20:38:38,932:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-07 20:38:38,932:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-07 20:38:38,932:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-07 20:38:38,932:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-07 20:39:04,823:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\dataframe_report.py:74: FutureWarning: iteritems is deprecated and will be removed in a future version. Use .items instead.
+  all_source_names = [cur_name for cur_name, cur_series in source_df.iteritems()]
+
+2024-07-07 20:39:04,826:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\dataframe_report.py:109: FutureWarning: iteritems is deprecated and will be removed in a future version. Use .items instead.
+  filtered_series_names_in_source = [cur_name for cur_name, cur_series in source_df.iteritems()
+
+2024-07-07 20:39:04,842:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 20:39:05,586:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 20:39:06,219:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 20:39:06,757:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 20:39:07,410:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 20:39:07,919:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 20:39:08,423:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 20:39:08,931:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 20:39:09,645:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_cat.py:28: FutureWarning: iteritems is deprecated and will be removed in a future version. Use .items instead.
+  for item in category_counts.iteritems():
+
+2024-07-07 20:40:15,742:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-07 20:40:15,742:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-07 20:40:15,743:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-07 20:40:15,743:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-07 20:40:31,073:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\dataframe_report.py:74: FutureWarning: iteritems is deprecated and will be removed in a future version. Use .items instead.
+  all_source_names = [cur_name for cur_name, cur_series in source_df.iteritems()]
+
+2024-07-07 20:40:31,073:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\dataframe_report.py:109: FutureWarning: iteritems is deprecated and will be removed in a future version. Use .items instead.
+  filtered_series_names_in_source = [cur_name for cur_name, cur_series in source_df.iteritems()
+
+2024-07-07 20:40:31,086:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 20:40:31,689:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 20:40:32,265:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 20:40:32,819:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 20:40:33,423:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 20:40:33,911:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 20:40:34,411:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 20:40:34,949:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 20:40:35,585:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_cat.py:28: FutureWarning: iteritems is deprecated and will be removed in a future version. Use .items instead.
+  for item in category_counts.iteritems():
+
+2024-07-07 20:43:50,491:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-07 20:43:50,491:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-07 20:43:50,491:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-07 20:43:50,491:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-07 20:47:02,069:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\dataframe_report.py:74: FutureWarning: iteritems is deprecated and will be removed in a future version. Use .items instead.
+  all_source_names = [cur_name for cur_name, cur_series in source_df.iteritems()]
+
+2024-07-07 20:47:02,070:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\dataframe_report.py:109: FutureWarning: iteritems is deprecated and will be removed in a future version. Use .items instead.
+  filtered_series_names_in_source = [cur_name for cur_name, cur_series in source_df.iteritems()
+
+2024-07-07 20:47:02,080:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 20:47:02,694:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 20:47:03,322:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 20:47:03,850:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 20:47:04,479:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 20:47:04,945:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 20:47:05,472:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 20:47:05,950:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_numeric.py:25: FutureWarning: The 'mad' method is deprecated and will be removed in a future version. To compute the same result, you may do `(df - df.mean()).abs().mean()`.
+  stats["mad"] = series.mad()
+
+2024-07-07 20:47:06,588:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sweetviz\series_analyzer_cat.py:28: FutureWarning: iteritems is deprecated and will be removed in a future version. Use .items instead.
+  for item in category_counts.iteritems():
+
+2024-07-07 20:48:35,264:INFO:PyCaret RegressionExperiment
+2024-07-07 20:48:35,264:INFO:Logging name: reg-default-name
+2024-07-07 20:48:35,264:INFO:ML Usecase: MLUsecase.REGRESSION
+2024-07-07 20:48:35,264:INFO:version 3.3.2
+2024-07-07 20:48:35,264:INFO:Initializing setup()
+2024-07-07 20:48:35,264:INFO:self.USI: afce
+2024-07-07 20:48:35,264:INFO:self._variable_keys: {'fold_generator', 'log_plots_param', 'X', 'exp_id', 'idx', 'seed', 'memory', 'gpu_param', '_ml_usecase', 'y_test', 'y', 'exp_name_log', 'USI', 'pipeline', 'transform_target_param', 'fold_shuffle_param', 'y_train', 'gpu_n_jobs_param', 'X_train', 'target_param', 'data', 'X_test', '_available_plots', 'html_param', 'fold_groups_param', 'logging_param', 'n_jobs_param'}
+2024-07-07 20:48:35,264:INFO:Checking environment
+2024-07-07 20:48:35,264:INFO:python_version: 3.9.19
+2024-07-07 20:48:35,264:INFO:python_build: ('main', 'May  6 2024 20:12:36')
+2024-07-07 20:48:35,264:INFO:machine: AMD64
+2024-07-07 20:48:35,303:INFO:platform: Windows-10-10.0.22631-SP0
+2024-07-07 20:48:35,318:INFO:Memory: svmem(total=7887364096, available=1290326016, percent=83.6, used=6597038080, free=1290326016)
+2024-07-07 20:48:35,318:INFO:Physical Core: 6
+2024-07-07 20:48:35,318:INFO:Logical Core: 12
+2024-07-07 20:48:35,318:INFO:Checking libraries
+2024-07-07 20:48:35,318:INFO:System:
+2024-07-07 20:48:35,318:INFO:    python: 3.9.19 (main, May  6 2024, 20:12:36) [MSC v.1916 64 bit (AMD64)]
+2024-07-07 20:48:35,318:INFO:executable: C:\Users\riddh\Desktop\DeepLearning\AutoML\env\python.exe
+2024-07-07 20:48:35,318:INFO:   machine: Windows-10-10.0.22631-SP0
+2024-07-07 20:48:35,318:INFO:PyCaret required dependencies:
+2024-07-07 20:48:35,448:INFO:                 pip: 24.1.1
+2024-07-07 20:48:35,448:INFO:          setuptools: 70.2.0
+2024-07-07 20:48:35,448:INFO:             pycaret: 3.3.2
+2024-07-07 20:48:35,448:INFO:             IPython: 8.18.1
+2024-07-07 20:48:35,448:INFO:          ipywidgets: 8.1.3
+2024-07-07 20:48:35,448:INFO:                tqdm: 4.64.1
+2024-07-07 20:48:35,448:INFO:               numpy: 1.23.5
+2024-07-07 20:48:35,448:INFO:              pandas: 1.5.3
+2024-07-07 20:48:35,448:INFO:              jinja2: 3.1.4
+2024-07-07 20:48:35,448:INFO:               scipy: 1.9.3
+2024-07-07 20:48:35,448:INFO:              joblib: 1.3.2
+2024-07-07 20:48:35,448:INFO:             sklearn: 1.4.2
+2024-07-07 20:48:35,448:INFO:                pyod: 2.0.1
+2024-07-07 20:48:35,448:INFO:            imblearn: 0.12.3
+2024-07-07 20:48:35,448:INFO:   category_encoders: 2.6.3
+2024-07-07 20:48:35,448:INFO:            lightgbm: 4.4.0
+2024-07-07 20:48:35,448:INFO:               numba: 0.58.1
+2024-07-07 20:48:35,448:INFO:            requests: 2.28.2
+2024-07-07 20:48:35,448:INFO:          matplotlib: 3.6.3
+2024-07-07 20:48:35,448:INFO:          scikitplot: 0.3.7
+2024-07-07 20:48:35,448:INFO:         yellowbrick: 1.5
+2024-07-07 20:48:35,448:INFO:              plotly: 5.22.0
+2024-07-07 20:48:35,448:INFO:    plotly-resampler: Not installed
+2024-07-07 20:48:35,448:INFO:             kaleido: 0.2.1
+2024-07-07 20:48:35,448:INFO:           schemdraw: 0.15
+2024-07-07 20:48:35,448:INFO:         statsmodels: 0.13.5
+2024-07-07 20:48:35,448:INFO:              sktime: 0.26.0
+2024-07-07 20:48:35,448:INFO:               tbats: 1.1.3
+2024-07-07 20:48:35,451:INFO:            pmdarima: 2.0.4
+2024-07-07 20:48:35,451:INFO:              psutil: 6.0.0
+2024-07-07 20:48:35,451:INFO:          markupsafe: 2.1.5
+2024-07-07 20:48:35,451:INFO:             pickle5: Not installed
+2024-07-07 20:48:35,451:INFO:         cloudpickle: 3.0.0
+2024-07-07 20:48:35,451:INFO:         deprecation: 2.1.0
+2024-07-07 20:48:35,451:INFO:              xxhash: 3.4.1
+2024-07-07 20:48:35,451:INFO:           wurlitzer: Not installed
+2024-07-07 20:48:35,451:INFO:PyCaret optional dependencies:
+2024-07-07 20:48:35,468:INFO:                shap: Not installed
+2024-07-07 20:48:35,468:INFO:           interpret: Not installed
+2024-07-07 20:48:35,468:INFO:                umap: Not installed
+2024-07-07 20:48:35,468:INFO:     ydata_profiling: 4.0.0
+2024-07-07 20:48:35,468:INFO:  explainerdashboard: Not installed
+2024-07-07 20:48:35,468:INFO:             autoviz: Not installed
+2024-07-07 20:48:35,468:INFO:           fairlearn: Not installed
+2024-07-07 20:48:35,468:INFO:          deepchecks: Not installed
+2024-07-07 20:48:35,468:INFO:             xgboost: Not installed
+2024-07-07 20:48:35,468:INFO:            catboost: Not installed
+2024-07-07 20:48:35,468:INFO:              kmodes: Not installed
+2024-07-07 20:48:35,468:INFO:             mlxtend: Not installed
+2024-07-07 20:48:35,468:INFO:       statsforecast: Not installed
+2024-07-07 20:48:35,468:INFO:        tune_sklearn: Not installed
+2024-07-07 20:48:35,468:INFO:                 ray: Not installed
+2024-07-07 20:48:35,468:INFO:            hyperopt: Not installed
+2024-07-07 20:48:35,468:INFO:              optuna: Not installed
+2024-07-07 20:48:35,468:INFO:               skopt: Not installed
+2024-07-07 20:48:35,468:INFO:              mlflow: Not installed
+2024-07-07 20:48:35,468:INFO:              gradio: Not installed
+2024-07-07 20:48:35,468:INFO:             fastapi: Not installed
+2024-07-07 20:48:35,468:INFO:             uvicorn: Not installed
+2024-07-07 20:48:35,468:INFO:              m2cgen: Not installed
+2024-07-07 20:48:35,468:INFO:           evidently: Not installed
+2024-07-07 20:48:35,468:INFO:               fugue: Not installed
+2024-07-07 20:48:35,468:INFO:           streamlit: 1.36.0
+2024-07-07 20:48:35,468:INFO:             prophet: Not installed
+2024-07-07 20:48:35,468:INFO:None
+2024-07-07 20:48:35,468:INFO:Set up data.
+2024-07-07 20:48:35,476:INFO:Set up folding strategy.
+2024-07-07 20:48:35,476:INFO:Set up train/test split.
+2024-07-07 20:48:35,487:INFO:Set up index.
+2024-07-07 20:48:35,487:INFO:Assigning column types.
+2024-07-07 20:48:35,494:INFO:Engine successfully changes for model 'lr' to 'sklearn'.
+2024-07-07 20:48:35,494:INFO:Engine for model 'lasso' has not been set explicitly, hence returning None.
+2024-07-07 20:48:35,499:INFO:Engine for model 'ridge' has not been set explicitly, hence returning None.
+2024-07-07 20:48:35,509:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2024-07-07 20:48:35,603:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2024-07-07 20:48:35,661:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2024-07-07 20:48:35,661:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-07-07 20:48:35,661:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-07-07 20:48:35,667:INFO:Engine for model 'lasso' has not been set explicitly, hence returning None.
+2024-07-07 20:48:35,672:INFO:Engine for model 'ridge' has not been set explicitly, hence returning None.
+2024-07-07 20:48:35,672:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2024-07-07 20:48:35,764:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2024-07-07 20:48:35,824:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2024-07-07 20:48:35,824:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-07-07 20:48:35,824:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-07-07 20:48:35,824:INFO:Engine successfully changes for model 'lasso' to 'sklearn'.
+2024-07-07 20:48:35,834:INFO:Engine for model 'ridge' has not been set explicitly, hence returning None.
+2024-07-07 20:48:35,834:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2024-07-07 20:48:35,916:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2024-07-07 20:48:35,981:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2024-07-07 20:48:35,981:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-07-07 20:48:35,981:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-07-07 20:48:35,989:INFO:Engine for model 'ridge' has not been set explicitly, hence returning None.
+2024-07-07 20:48:35,989:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2024-07-07 20:48:36,066:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2024-07-07 20:48:36,133:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2024-07-07 20:48:36,133:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-07-07 20:48:36,133:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-07-07 20:48:36,133:INFO:Engine successfully changes for model 'ridge' to 'sklearn'.
+2024-07-07 20:48:36,148:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2024-07-07 20:48:36,227:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2024-07-07 20:48:36,295:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2024-07-07 20:48:36,295:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-07-07 20:48:36,295:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-07-07 20:48:36,305:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2024-07-07 20:48:36,400:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2024-07-07 20:48:36,461:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2024-07-07 20:48:36,461:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-07-07 20:48:36,461:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-07-07 20:48:36,461:INFO:Engine successfully changes for model 'en' to 'sklearn'.
+2024-07-07 20:48:36,552:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2024-07-07 20:48:36,614:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2024-07-07 20:48:36,614:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-07-07 20:48:36,614:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-07-07 20:48:36,715:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2024-07-07 20:48:36,778:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2024-07-07 20:48:36,778:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-07-07 20:48:36,778:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-07-07 20:48:36,778:INFO:Engine successfully changes for model 'knn' to 'sklearn'.
+2024-07-07 20:48:36,883:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2024-07-07 20:48:36,951:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-07-07 20:48:36,951:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-07-07 20:48:37,033:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2024-07-07 20:48:37,110:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-07-07 20:48:37,115:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-07-07 20:48:37,115:INFO:Engine successfully changes for model 'svm' to 'sklearn'.
+2024-07-07 20:48:37,268:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-07-07 20:48:37,268:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-07-07 20:48:37,421:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-07-07 20:48:37,421:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-07-07 20:48:37,442:INFO:Preparing preprocessing pipeline...
+2024-07-07 20:48:37,442:INFO:Set up simple imputation.
+2024-07-07 20:48:37,484:INFO:Finished creating preprocessing pipeline.
+2024-07-07 20:48:37,495:INFO:Pipeline: Pipeline(memory=FastMemory(location=C:\Users\riddh\AppData\Local\Temp\joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Pregnancies', 'Glucose',
+                                             'BloodPressure', 'SkinThickness',
+                                             'Insulin', 'BMI',
+                                             'DiabetesPedigreeFunction',
+                                             'Age'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent')))])
+2024-07-07 20:48:37,498:INFO:Creating final display dataframe.
+2024-07-07 20:48:37,587:INFO:Setup _display_container:                     Description             Value
+0                    Session id              3365
+1                        Target           Outcome
+2                   Target type        Regression
+3           Original data shape          (768, 9)
+4        Transformed data shape          (768, 9)
+5   Transformed train set shape          (537, 9)
+6    Transformed test set shape          (231, 9)
+7              Numeric features                 8
+8                    Preprocess              True
+9               Imputation type            simple
+10           Numeric imputation              mean
+11       Categorical imputation              mode
+12               Fold Generator             KFold
+13                  Fold Number                10
+14                     CPU Jobs                -1
+15                      Use GPU             False
+16               Log Experiment             False
+17              Experiment Name  reg-default-name
+18                          USI              afce
+2024-07-07 20:48:37,738:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-07-07 20:48:37,738:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-07-07 20:48:37,896:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-07-07 20:48:37,896:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2024-07-07 20:48:37,898:INFO:setup() successfully completed in 2.64s...............
+2024-07-07 20:48:37,914:INFO:Initializing compare_models()
+2024-07-07 20:48:37,914:INFO:compare_models(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002932BB6AA90>, include=None, fold=None, round=4, cross_validation=True, sort=R2, n_select=1, budget_time=None, turbo=True, errors=ignore, fit_kwargs=None, groups=None, experiment_custom_tags=None, probability_threshold=None, verbose=True, parallel=None, caller_params={'self': <pycaret.regression.oop.RegressionExperiment object at 0x000002932BB6AA90>, 'include': None, 'exclude': None, 'fold': None, 'round': 4, 'cross_validation': True, 'sort': 'R2', 'n_select': 1, 'budget_time': None, 'turbo': True, 'errors': 'ignore', 'fit_kwargs': None, 'groups': None, 'experiment_custom_tags': None, 'engine': None, 'verbose': True, 'parallel': None, '__class__': <class 'pycaret.regression.oop.RegressionExperiment'>}, exclude=None)
+2024-07-07 20:48:37,914:INFO:Checking exceptions
+2024-07-07 20:48:37,918:INFO:Preparing display monitor
+2024-07-07 20:48:37,924:INFO:Initializing Linear Regression
+2024-07-07 20:48:37,924:INFO:Total runtime is 0.0 minutes
+2024-07-07 20:48:37,924:INFO:SubProcess create_model() called ==================================
+2024-07-07 20:48:37,924:INFO:Initializing create_model()
+2024-07-07 20:48:37,924:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002932BB6AA90>, estimator=lr, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x000002932993D670>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-07-07 20:48:37,924:INFO:Checking exceptions
+2024-07-07 20:48:37,924:INFO:Importing libraries
+2024-07-07 20:48:37,924:INFO:Copying training dataset
+2024-07-07 20:48:37,931:INFO:Defining folds
+2024-07-07 20:48:37,931:INFO:Declaring metric variables
+2024-07-07 20:48:37,932:INFO:Importing untrained model
+2024-07-07 20:48:37,932:INFO:Linear Regression Imported successfully
+2024-07-07 20:48:37,932:INFO:Starting cross validation
+2024-07-07 20:48:37,945:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-07-07 20:48:43,364:INFO:Calculating mean and std
+2024-07-07 20:48:43,372:INFO:Creating metrics dataframe
+2024-07-07 20:48:43,382:INFO:Uploading results into container
+2024-07-07 20:48:43,382:INFO:Uploading model into container now
+2024-07-07 20:48:43,382:INFO:_master_model_container: 1
+2024-07-07 20:48:43,382:INFO:_display_container: 2
+2024-07-07 20:48:43,382:INFO:LinearRegression(n_jobs=-1)
+2024-07-07 20:48:43,382:INFO:create_model() successfully completed......................................
+2024-07-07 20:48:43,584:INFO:SubProcess create_model() end ==================================
+2024-07-07 20:48:43,584:INFO:Creating metrics dataframe
+2024-07-07 20:48:43,591:INFO:Initializing Lasso Regression
+2024-07-07 20:48:43,591:INFO:Total runtime is 0.09445027907689413 minutes
+2024-07-07 20:48:43,591:INFO:SubProcess create_model() called ==================================
+2024-07-07 20:48:43,591:INFO:Initializing create_model()
+2024-07-07 20:48:43,591:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002932BB6AA90>, estimator=lasso, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x000002932993D670>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-07-07 20:48:43,591:INFO:Checking exceptions
+2024-07-07 20:48:43,591:INFO:Importing libraries
+2024-07-07 20:48:43,591:INFO:Copying training dataset
+2024-07-07 20:48:43,599:INFO:Defining folds
+2024-07-07 20:48:43,599:INFO:Declaring metric variables
+2024-07-07 20:48:43,599:INFO:Importing untrained model
+2024-07-07 20:48:43,599:INFO:Lasso Regression Imported successfully
+2024-07-07 20:48:43,599:INFO:Starting cross validation
+2024-07-07 20:48:43,601:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-07-07 20:48:47,030:INFO:Calculating mean and std
+2024-07-07 20:48:47,030:INFO:Creating metrics dataframe
+2024-07-07 20:48:47,033:INFO:Uploading results into container
+2024-07-07 20:48:47,033:INFO:Uploading model into container now
+2024-07-07 20:48:47,033:INFO:_master_model_container: 2
+2024-07-07 20:48:47,033:INFO:_display_container: 2
+2024-07-07 20:48:47,033:INFO:Lasso(random_state=3365)
+2024-07-07 20:48:47,033:INFO:create_model() successfully completed......................................
+2024-07-07 20:48:47,140:INFO:SubProcess create_model() end ==================================
+2024-07-07 20:48:47,140:INFO:Creating metrics dataframe
+2024-07-07 20:48:47,140:INFO:Initializing Ridge Regression
+2024-07-07 20:48:47,140:INFO:Total runtime is 0.15360504786173504 minutes
+2024-07-07 20:48:47,140:INFO:SubProcess create_model() called ==================================
+2024-07-07 20:48:47,140:INFO:Initializing create_model()
+2024-07-07 20:48:47,140:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002932BB6AA90>, estimator=ridge, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x000002932993D670>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-07-07 20:48:47,140:INFO:Checking exceptions
+2024-07-07 20:48:47,140:INFO:Importing libraries
+2024-07-07 20:48:47,140:INFO:Copying training dataset
+2024-07-07 20:48:47,149:INFO:Defining folds
+2024-07-07 20:48:47,149:INFO:Declaring metric variables
+2024-07-07 20:48:47,149:INFO:Importing untrained model
+2024-07-07 20:48:47,149:INFO:Ridge Regression Imported successfully
+2024-07-07 20:48:47,149:INFO:Starting cross validation
+2024-07-07 20:48:47,149:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-07-07 20:48:47,229:INFO:Calculating mean and std
+2024-07-07 20:48:47,229:INFO:Creating metrics dataframe
+2024-07-07 20:48:47,233:INFO:Uploading results into container
+2024-07-07 20:48:47,233:INFO:Uploading model into container now
+2024-07-07 20:48:47,233:INFO:_master_model_container: 3
+2024-07-07 20:48:47,233:INFO:_display_container: 2
+2024-07-07 20:48:47,233:INFO:Ridge(random_state=3365)
+2024-07-07 20:48:47,233:INFO:create_model() successfully completed......................................
+2024-07-07 20:48:47,310:INFO:SubProcess create_model() end ==================================
+2024-07-07 20:48:47,310:INFO:Creating metrics dataframe
+2024-07-07 20:48:47,314:INFO:Initializing Elastic Net
+2024-07-07 20:48:47,314:INFO:Total runtime is 0.15650289456049601 minutes
+2024-07-07 20:48:47,314:INFO:SubProcess create_model() called ==================================
+2024-07-07 20:48:47,314:INFO:Initializing create_model()
+2024-07-07 20:48:47,314:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002932BB6AA90>, estimator=en, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x000002932993D670>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-07-07 20:48:47,314:INFO:Checking exceptions
+2024-07-07 20:48:47,314:INFO:Importing libraries
+2024-07-07 20:48:47,314:INFO:Copying training dataset
+2024-07-07 20:48:47,314:INFO:Defining folds
+2024-07-07 20:48:47,314:INFO:Declaring metric variables
+2024-07-07 20:48:47,314:INFO:Importing untrained model
+2024-07-07 20:48:47,314:INFO:Elastic Net Imported successfully
+2024-07-07 20:48:47,314:INFO:Starting cross validation
+2024-07-07 20:48:47,314:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-07-07 20:48:47,397:INFO:Calculating mean and std
+2024-07-07 20:48:47,397:INFO:Creating metrics dataframe
+2024-07-07 20:48:47,397:INFO:Uploading results into container
+2024-07-07 20:48:47,397:INFO:Uploading model into container now
+2024-07-07 20:48:47,397:INFO:_master_model_container: 4
+2024-07-07 20:48:47,397:INFO:_display_container: 2
+2024-07-07 20:48:47,397:INFO:ElasticNet(random_state=3365)
+2024-07-07 20:48:47,397:INFO:create_model() successfully completed......................................
+2024-07-07 20:48:47,499:INFO:SubProcess create_model() end ==================================
+2024-07-07 20:48:47,499:INFO:Creating metrics dataframe
+2024-07-07 20:48:47,499:INFO:Initializing Least Angle Regression
+2024-07-07 20:48:47,499:INFO:Total runtime is 0.15959171851476034 minutes
+2024-07-07 20:48:47,499:INFO:SubProcess create_model() called ==================================
+2024-07-07 20:48:47,499:INFO:Initializing create_model()
+2024-07-07 20:48:47,499:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002932BB6AA90>, estimator=lar, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x000002932993D670>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-07-07 20:48:47,499:INFO:Checking exceptions
+2024-07-07 20:48:47,499:INFO:Importing libraries
+2024-07-07 20:48:47,499:INFO:Copying training dataset
+2024-07-07 20:48:47,508:INFO:Defining folds
+2024-07-07 20:48:47,508:INFO:Declaring metric variables
+2024-07-07 20:48:47,508:INFO:Importing untrained model
+2024-07-07 20:48:47,510:INFO:Least Angle Regression Imported successfully
+2024-07-07 20:48:47,510:INFO:Starting cross validation
+2024-07-07 20:48:47,511:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-07-07 20:48:47,613:INFO:Calculating mean and std
+2024-07-07 20:48:47,615:INFO:Creating metrics dataframe
+2024-07-07 20:48:47,618:INFO:Uploading results into container
+2024-07-07 20:48:47,618:INFO:Uploading model into container now
+2024-07-07 20:48:47,618:INFO:_master_model_container: 5
+2024-07-07 20:48:47,618:INFO:_display_container: 2
+2024-07-07 20:48:47,618:INFO:Lars(random_state=3365)
+2024-07-07 20:48:47,618:INFO:create_model() successfully completed......................................
+2024-07-07 20:48:47,700:INFO:SubProcess create_model() end ==================================
+2024-07-07 20:48:47,700:INFO:Creating metrics dataframe
+2024-07-07 20:48:47,700:INFO:Initializing Lasso Least Angle Regression
+2024-07-07 20:48:47,700:INFO:Total runtime is 0.16292730569839478 minutes
+2024-07-07 20:48:47,700:INFO:SubProcess create_model() called ==================================
+2024-07-07 20:48:47,700:INFO:Initializing create_model()
+2024-07-07 20:48:47,700:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002932BB6AA90>, estimator=llar, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x000002932993D670>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-07-07 20:48:47,700:INFO:Checking exceptions
+2024-07-07 20:48:47,700:INFO:Importing libraries
+2024-07-07 20:48:47,700:INFO:Copying training dataset
+2024-07-07 20:48:47,708:INFO:Defining folds
+2024-07-07 20:48:47,708:INFO:Declaring metric variables
+2024-07-07 20:48:47,710:INFO:Importing untrained model
+2024-07-07 20:48:47,710:INFO:Lasso Least Angle Regression Imported successfully
+2024-07-07 20:48:47,710:INFO:Starting cross validation
+2024-07-07 20:48:47,710:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-07-07 20:48:47,781:INFO:Calculating mean and std
+2024-07-07 20:48:47,781:INFO:Creating metrics dataframe
+2024-07-07 20:48:47,785:INFO:Uploading results into container
+2024-07-07 20:48:47,785:INFO:Uploading model into container now
+2024-07-07 20:48:47,785:INFO:_master_model_container: 6
+2024-07-07 20:48:47,785:INFO:_display_container: 2
+2024-07-07 20:48:47,786:INFO:LassoLars(random_state=3365)
+2024-07-07 20:48:47,786:INFO:create_model() successfully completed......................................
+2024-07-07 20:48:47,867:INFO:SubProcess create_model() end ==================================
+2024-07-07 20:48:47,867:INFO:Creating metrics dataframe
+2024-07-07 20:48:47,867:INFO:Initializing Orthogonal Matching Pursuit
+2024-07-07 20:48:47,867:INFO:Total runtime is 0.1657153884569804 minutes
+2024-07-07 20:48:47,867:INFO:SubProcess create_model() called ==================================
+2024-07-07 20:48:47,867:INFO:Initializing create_model()
+2024-07-07 20:48:47,867:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002932BB6AA90>, estimator=omp, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x000002932993D670>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-07-07 20:48:47,867:INFO:Checking exceptions
+2024-07-07 20:48:47,867:INFO:Importing libraries
+2024-07-07 20:48:47,867:INFO:Copying training dataset
+2024-07-07 20:48:47,879:INFO:Defining folds
+2024-07-07 20:48:47,879:INFO:Declaring metric variables
+2024-07-07 20:48:47,879:INFO:Importing untrained model
+2024-07-07 20:48:47,879:INFO:Orthogonal Matching Pursuit Imported successfully
+2024-07-07 20:48:47,879:INFO:Starting cross validation
+2024-07-07 20:48:47,879:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-07-07 20:48:47,976:INFO:Calculating mean and std
+2024-07-07 20:48:47,976:INFO:Creating metrics dataframe
+2024-07-07 20:48:47,979:INFO:Uploading results into container
+2024-07-07 20:48:47,979:INFO:Uploading model into container now
+2024-07-07 20:48:47,979:INFO:_master_model_container: 7
+2024-07-07 20:48:47,979:INFO:_display_container: 2
+2024-07-07 20:48:47,979:INFO:OrthogonalMatchingPursuit()
+2024-07-07 20:48:47,979:INFO:create_model() successfully completed......................................
+2024-07-07 20:48:48,067:INFO:SubProcess create_model() end ==================================
+2024-07-07 20:48:48,067:INFO:Creating metrics dataframe
+2024-07-07 20:48:48,071:INFO:Initializing Bayesian Ridge
+2024-07-07 20:48:48,071:INFO:Total runtime is 0.16911602417627972 minutes
+2024-07-07 20:48:48,071:INFO:SubProcess create_model() called ==================================
+2024-07-07 20:48:48,072:INFO:Initializing create_model()
+2024-07-07 20:48:48,072:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002932BB6AA90>, estimator=br, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x000002932993D670>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-07-07 20:48:48,072:INFO:Checking exceptions
+2024-07-07 20:48:48,072:INFO:Importing libraries
+2024-07-07 20:48:48,072:INFO:Copying training dataset
+2024-07-07 20:48:48,073:INFO:Defining folds
+2024-07-07 20:48:48,073:INFO:Declaring metric variables
+2024-07-07 20:48:48,073:INFO:Importing untrained model
+2024-07-07 20:48:48,073:INFO:Bayesian Ridge Imported successfully
+2024-07-07 20:48:48,073:INFO:Starting cross validation
+2024-07-07 20:48:48,073:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-07-07 20:48:48,155:INFO:Calculating mean and std
+2024-07-07 20:48:48,155:INFO:Creating metrics dataframe
+2024-07-07 20:48:48,158:INFO:Uploading results into container
+2024-07-07 20:48:48,158:INFO:Uploading model into container now
+2024-07-07 20:48:48,158:INFO:_master_model_container: 8
+2024-07-07 20:48:48,158:INFO:_display_container: 2
+2024-07-07 20:48:48,158:INFO:BayesianRidge()
+2024-07-07 20:48:48,158:INFO:create_model() successfully completed......................................
+2024-07-07 20:48:48,258:INFO:SubProcess create_model() end ==================================
+2024-07-07 20:48:48,258:INFO:Creating metrics dataframe
+2024-07-07 20:48:48,262:INFO:Initializing Passive Aggressive Regressor
+2024-07-07 20:48:48,262:INFO:Total runtime is 0.17229249874750774 minutes
+2024-07-07 20:48:48,262:INFO:SubProcess create_model() called ==================================
+2024-07-07 20:48:48,262:INFO:Initializing create_model()
+2024-07-07 20:48:48,262:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002932BB6AA90>, estimator=par, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x000002932993D670>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-07-07 20:48:48,262:INFO:Checking exceptions
+2024-07-07 20:48:48,262:INFO:Importing libraries
+2024-07-07 20:48:48,262:INFO:Copying training dataset
+2024-07-07 20:48:48,262:INFO:Defining folds
+2024-07-07 20:48:48,262:INFO:Declaring metric variables
+2024-07-07 20:48:48,262:INFO:Importing untrained model
+2024-07-07 20:48:48,262:INFO:Passive Aggressive Regressor Imported successfully
+2024-07-07 20:48:48,262:INFO:Starting cross validation
+2024-07-07 20:48:48,270:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-07-07 20:48:48,360:INFO:Calculating mean and std
+2024-07-07 20:48:48,361:INFO:Creating metrics dataframe
+2024-07-07 20:48:48,364:INFO:Uploading results into container
+2024-07-07 20:48:48,364:INFO:Uploading model into container now
+2024-07-07 20:48:48,364:INFO:_master_model_container: 9
+2024-07-07 20:48:48,364:INFO:_display_container: 2
+2024-07-07 20:48:48,364:INFO:PassiveAggressiveRegressor(random_state=3365)
+2024-07-07 20:48:48,364:INFO:create_model() successfully completed......................................
+2024-07-07 20:48:48,457:INFO:SubProcess create_model() end ==================================
+2024-07-07 20:48:48,457:INFO:Creating metrics dataframe
+2024-07-07 20:48:48,462:INFO:Initializing Huber Regressor
+2024-07-07 20:48:48,462:INFO:Total runtime is 0.17563302914301554 minutes
+2024-07-07 20:48:48,462:INFO:SubProcess create_model() called ==================================
+2024-07-07 20:48:48,462:INFO:Initializing create_model()
+2024-07-07 20:48:48,462:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002932BB6AA90>, estimator=huber, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x000002932993D670>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-07-07 20:48:48,462:INFO:Checking exceptions
+2024-07-07 20:48:48,462:INFO:Importing libraries
+2024-07-07 20:48:48,462:INFO:Copying training dataset
+2024-07-07 20:48:48,462:INFO:Defining folds
+2024-07-07 20:48:48,462:INFO:Declaring metric variables
+2024-07-07 20:48:48,462:INFO:Importing untrained model
+2024-07-07 20:48:48,462:INFO:Huber Regressor Imported successfully
+2024-07-07 20:48:48,462:INFO:Starting cross validation
+2024-07-07 20:48:48,462:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-07-07 20:48:48,548:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sklearn\linear_model\_huber.py:342: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  self.n_iter_ = _check_optimize_result("lbfgs", opt_res, self.max_iter)
+
+2024-07-07 20:48:48,548:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sklearn\linear_model\_huber.py:342: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  self.n_iter_ = _check_optimize_result("lbfgs", opt_res, self.max_iter)
+
+2024-07-07 20:48:48,548:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sklearn\linear_model\_huber.py:342: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  self.n_iter_ = _check_optimize_result("lbfgs", opt_res, self.max_iter)
+
+2024-07-07 20:48:48,563:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sklearn\linear_model\_huber.py:342: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  self.n_iter_ = _check_optimize_result("lbfgs", opt_res, self.max_iter)
+
+2024-07-07 20:48:48,571:WARNING:C:\Users\riddh\Desktop\DeepLearning\AutoML\env\lib\site-packages\sklearn\linear_model\_huber.py:342: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  self.n_iter_ = _check_optimize_result("lbfgs", opt_res, self.max_iter)
+
+2024-07-07 20:48:48,595:INFO:Calculating mean and std
+2024-07-07 20:48:48,595:INFO:Creating metrics dataframe
+2024-07-07 20:48:48,598:INFO:Uploading results into container
+2024-07-07 20:48:48,598:INFO:Uploading model into container now
+2024-07-07 20:48:48,598:INFO:_master_model_container: 10
+2024-07-07 20:48:48,598:INFO:_display_container: 2
+2024-07-07 20:48:48,598:INFO:HuberRegressor()
+2024-07-07 20:48:48,598:INFO:create_model() successfully completed......................................
+2024-07-07 20:48:48,679:INFO:SubProcess create_model() end ==================================
+2024-07-07 20:48:48,679:INFO:Creating metrics dataframe
+2024-07-07 20:48:48,679:INFO:Initializing K Neighbors Regressor
+2024-07-07 20:48:48,679:INFO:Total runtime is 0.1792479634284973 minutes
+2024-07-07 20:48:48,679:INFO:SubProcess create_model() called ==================================
+2024-07-07 20:48:48,679:INFO:Initializing create_model()
+2024-07-07 20:48:48,679:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002932BB6AA90>, estimator=knn, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x000002932993D670>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-07-07 20:48:48,679:INFO:Checking exceptions
+2024-07-07 20:48:48,679:INFO:Importing libraries
+2024-07-07 20:48:48,679:INFO:Copying training dataset
+2024-07-07 20:48:48,689:INFO:Defining folds
+2024-07-07 20:48:48,689:INFO:Declaring metric variables
+2024-07-07 20:48:48,690:INFO:Importing untrained model
+2024-07-07 20:48:48,690:INFO:K Neighbors Regressor Imported successfully
+2024-07-07 20:48:48,690:INFO:Starting cross validation
+2024-07-07 20:48:48,690:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-07-07 20:48:48,795:INFO:Calculating mean and std
+2024-07-07 20:48:48,797:INFO:Creating metrics dataframe
+2024-07-07 20:48:48,797:INFO:Uploading results into container
+2024-07-07 20:48:48,797:INFO:Uploading model into container now
+2024-07-07 20:48:48,803:INFO:_master_model_container: 11
+2024-07-07 20:48:48,803:INFO:_display_container: 2
+2024-07-07 20:48:48,803:INFO:KNeighborsRegressor(n_jobs=-1)
+2024-07-07 20:48:48,803:INFO:create_model() successfully completed......................................
+2024-07-07 20:48:48,905:INFO:SubProcess create_model() end ==================================
+2024-07-07 20:48:48,905:INFO:Creating metrics dataframe
+2024-07-07 20:48:48,906:INFO:Initializing Decision Tree Regressor
+2024-07-07 20:48:48,906:INFO:Total runtime is 0.1830411712328593 minutes
+2024-07-07 20:48:48,906:INFO:SubProcess create_model() called ==================================
+2024-07-07 20:48:48,906:INFO:Initializing create_model()
+2024-07-07 20:48:48,906:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002932BB6AA90>, estimator=dt, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x000002932993D670>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-07-07 20:48:48,906:INFO:Checking exceptions
+2024-07-07 20:48:48,906:INFO:Importing libraries
+2024-07-07 20:48:48,906:INFO:Copying training dataset
+2024-07-07 20:48:48,906:INFO:Defining folds
+2024-07-07 20:48:48,906:INFO:Declaring metric variables
+2024-07-07 20:48:48,906:INFO:Importing untrained model
+2024-07-07 20:48:48,906:INFO:Decision Tree Regressor Imported successfully
+2024-07-07 20:48:48,906:INFO:Starting cross validation
+2024-07-07 20:48:48,915:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-07-07 20:48:48,997:INFO:Calculating mean and std
+2024-07-07 20:48:48,997:INFO:Creating metrics dataframe
+2024-07-07 20:48:48,997:INFO:Uploading results into container
+2024-07-07 20:48:48,997:INFO:Uploading model into container now
+2024-07-07 20:48:48,997:INFO:_master_model_container: 12
+2024-07-07 20:48:48,997:INFO:_display_container: 2
+2024-07-07 20:48:48,997:INFO:DecisionTreeRegressor(random_state=3365)
+2024-07-07 20:48:48,997:INFO:create_model() successfully completed......................................
+2024-07-07 20:48:49,089:INFO:SubProcess create_model() end ==================================
+2024-07-07 20:48:49,089:INFO:Creating metrics dataframe
+2024-07-07 20:48:49,089:INFO:Initializing Random Forest Regressor
+2024-07-07 20:48:49,089:INFO:Total runtime is 0.18608548243840536 minutes
+2024-07-07 20:48:49,089:INFO:SubProcess create_model() called ==================================
+2024-07-07 20:48:49,089:INFO:Initializing create_model()
+2024-07-07 20:48:49,089:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002932BB6AA90>, estimator=rf, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x000002932993D670>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-07-07 20:48:49,089:INFO:Checking exceptions
+2024-07-07 20:48:49,089:INFO:Importing libraries
+2024-07-07 20:48:49,089:INFO:Copying training dataset
+2024-07-07 20:48:49,099:INFO:Defining folds
+2024-07-07 20:48:49,099:INFO:Declaring metric variables
+2024-07-07 20:48:49,099:INFO:Importing untrained model
+2024-07-07 20:48:49,099:INFO:Random Forest Regressor Imported successfully
+2024-07-07 20:48:49,099:INFO:Starting cross validation
+2024-07-07 20:48:49,099:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-07-07 20:48:49,600:INFO:Calculating mean and std
+2024-07-07 20:48:49,602:INFO:Creating metrics dataframe
+2024-07-07 20:48:49,602:INFO:Uploading results into container
+2024-07-07 20:48:49,602:INFO:Uploading model into container now
+2024-07-07 20:48:49,602:INFO:_master_model_container: 13
+2024-07-07 20:48:49,602:INFO:_display_container: 2
+2024-07-07 20:48:49,602:INFO:RandomForestRegressor(n_jobs=-1, random_state=3365)
+2024-07-07 20:48:49,602:INFO:create_model() successfully completed......................................
+2024-07-07 20:48:49,681:INFO:SubProcess create_model() end ==================================
+2024-07-07 20:48:49,681:INFO:Creating metrics dataframe
+2024-07-07 20:48:49,691:INFO:Initializing Extra Trees Regressor
+2024-07-07 20:48:49,691:INFO:Total runtime is 0.19612363179524742 minutes
+2024-07-07 20:48:49,691:INFO:SubProcess create_model() called ==================================
+2024-07-07 20:48:49,691:INFO:Initializing create_model()
+2024-07-07 20:48:49,691:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002932BB6AA90>, estimator=et, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x000002932993D670>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-07-07 20:48:49,691:INFO:Checking exceptions
+2024-07-07 20:48:49,691:INFO:Importing libraries
+2024-07-07 20:48:49,691:INFO:Copying training dataset
+2024-07-07 20:48:49,697:INFO:Defining folds
+2024-07-07 20:48:49,697:INFO:Declaring metric variables
+2024-07-07 20:48:49,697:INFO:Importing untrained model
+2024-07-07 20:48:49,697:INFO:Extra Trees Regressor Imported successfully
+2024-07-07 20:48:49,697:INFO:Starting cross validation
+2024-07-07 20:48:49,697:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-07-07 20:48:50,088:INFO:Calculating mean and std
+2024-07-07 20:48:50,089:INFO:Creating metrics dataframe
+2024-07-07 20:48:50,091:INFO:Uploading results into container
+2024-07-07 20:48:50,091:INFO:Uploading model into container now
+2024-07-07 20:48:50,091:INFO:_master_model_container: 14
+2024-07-07 20:48:50,091:INFO:_display_container: 2
+2024-07-07 20:48:50,091:INFO:ExtraTreesRegressor(n_jobs=-1, random_state=3365)
+2024-07-07 20:48:50,091:INFO:create_model() successfully completed......................................
+2024-07-07 20:48:50,192:INFO:SubProcess create_model() end ==================================
+2024-07-07 20:48:50,192:INFO:Creating metrics dataframe
+2024-07-07 20:48:50,192:INFO:Initializing AdaBoost Regressor
+2024-07-07 20:48:50,192:INFO:Total runtime is 0.20447317759195965 minutes
+2024-07-07 20:48:50,192:INFO:SubProcess create_model() called ==================================
+2024-07-07 20:48:50,192:INFO:Initializing create_model()
+2024-07-07 20:48:50,192:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002932BB6AA90>, estimator=ada, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x000002932993D670>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-07-07 20:48:50,192:INFO:Checking exceptions
+2024-07-07 20:48:50,192:INFO:Importing libraries
+2024-07-07 20:48:50,192:INFO:Copying training dataset
+2024-07-07 20:48:50,201:INFO:Defining folds
+2024-07-07 20:48:50,201:INFO:Declaring metric variables
+2024-07-07 20:48:50,201:INFO:Importing untrained model
+2024-07-07 20:48:50,201:INFO:AdaBoost Regressor Imported successfully
+2024-07-07 20:48:50,201:INFO:Starting cross validation
+2024-07-07 20:48:50,201:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-07-07 20:48:50,377:INFO:Calculating mean and std
+2024-07-07 20:48:50,377:INFO:Creating metrics dataframe
+2024-07-07 20:48:50,381:INFO:Uploading results into container
+2024-07-07 20:48:50,381:INFO:Uploading model into container now
+2024-07-07 20:48:50,381:INFO:_master_model_container: 15
+2024-07-07 20:48:50,381:INFO:_display_container: 2
+2024-07-07 20:48:50,381:INFO:AdaBoostRegressor(random_state=3365)
+2024-07-07 20:48:50,381:INFO:create_model() successfully completed......................................
+2024-07-07 20:48:50,489:INFO:SubProcess create_model() end ==================================
+2024-07-07 20:48:50,489:INFO:Creating metrics dataframe
+2024-07-07 20:48:50,498:INFO:Initializing Gradient Boosting Regressor
+2024-07-07 20:48:50,498:INFO:Total runtime is 0.20956606070200604 minutes
+2024-07-07 20:48:50,498:INFO:SubProcess create_model() called ==================================
+2024-07-07 20:48:50,498:INFO:Initializing create_model()
+2024-07-07 20:48:50,498:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002932BB6AA90>, estimator=gbr, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x000002932993D670>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-07-07 20:48:50,498:INFO:Checking exceptions
+2024-07-07 20:48:50,498:INFO:Importing libraries
+2024-07-07 20:48:50,498:INFO:Copying training dataset
+2024-07-07 20:48:50,498:INFO:Defining folds
+2024-07-07 20:48:50,498:INFO:Declaring metric variables
+2024-07-07 20:48:50,498:INFO:Importing untrained model
+2024-07-07 20:48:50,498:INFO:Gradient Boosting Regressor Imported successfully
+2024-07-07 20:48:50,498:INFO:Starting cross validation
+2024-07-07 20:48:50,506:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-07-07 20:48:50,725:INFO:Calculating mean and std
+2024-07-07 20:48:50,725:INFO:Creating metrics dataframe
+2024-07-07 20:48:50,731:INFO:Uploading results into container
+2024-07-07 20:48:50,731:INFO:Uploading model into container now
+2024-07-07 20:48:50,731:INFO:_master_model_container: 16
+2024-07-07 20:48:50,731:INFO:_display_container: 2
+2024-07-07 20:48:50,734:INFO:GradientBoostingRegressor(random_state=3365)
+2024-07-07 20:48:50,734:INFO:create_model() successfully completed......................................
+2024-07-07 20:48:50,831:INFO:SubProcess create_model() end ==================================
+2024-07-07 20:48:50,832:INFO:Creating metrics dataframe
+2024-07-07 20:48:50,832:INFO:Initializing Light Gradient Boosting Machine
+2024-07-07 20:48:50,832:INFO:Total runtime is 0.21513488292694094 minutes
+2024-07-07 20:48:50,832:INFO:SubProcess create_model() called ==================================
+2024-07-07 20:48:50,832:INFO:Initializing create_model()
+2024-07-07 20:48:50,832:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002932BB6AA90>, estimator=lightgbm, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x000002932993D670>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-07-07 20:48:50,832:INFO:Checking exceptions
+2024-07-07 20:48:50,832:INFO:Importing libraries
+2024-07-07 20:48:50,832:INFO:Copying training dataset
+2024-07-07 20:48:50,832:INFO:Defining folds
+2024-07-07 20:48:50,832:INFO:Declaring metric variables
+2024-07-07 20:48:50,832:INFO:Importing untrained model
+2024-07-07 20:48:50,832:INFO:Light Gradient Boosting Machine Imported successfully
+2024-07-07 20:48:50,832:INFO:Starting cross validation
+2024-07-07 20:48:50,832:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-07-07 20:48:51,411:INFO:Calculating mean and std
+2024-07-07 20:48:51,411:INFO:Creating metrics dataframe
+2024-07-07 20:48:51,416:INFO:Uploading results into container
+2024-07-07 20:48:51,416:INFO:Uploading model into container now
+2024-07-07 20:48:51,416:INFO:_master_model_container: 17
+2024-07-07 20:48:51,416:INFO:_display_container: 2
+2024-07-07 20:48:51,416:INFO:LGBMRegressor(n_jobs=-1, random_state=3365)
+2024-07-07 20:48:51,416:INFO:create_model() successfully completed......................................
+2024-07-07 20:48:51,507:INFO:SubProcess create_model() end ==================================
+2024-07-07 20:48:51,507:INFO:Creating metrics dataframe
+2024-07-07 20:48:51,517:INFO:Initializing Dummy Regressor
+2024-07-07 20:48:51,517:INFO:Total runtime is 0.22654640277226767 minutes
+2024-07-07 20:48:51,517:INFO:SubProcess create_model() called ==================================
+2024-07-07 20:48:51,517:INFO:Initializing create_model()
+2024-07-07 20:48:51,517:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002932BB6AA90>, estimator=dummy, fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x000002932993D670>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-07-07 20:48:51,517:INFO:Checking exceptions
+2024-07-07 20:48:51,517:INFO:Importing libraries
+2024-07-07 20:48:51,517:INFO:Copying training dataset
+2024-07-07 20:48:51,527:INFO:Defining folds
+2024-07-07 20:48:51,527:INFO:Declaring metric variables
+2024-07-07 20:48:51,527:INFO:Importing untrained model
+2024-07-07 20:48:51,527:INFO:Dummy Regressor Imported successfully
+2024-07-07 20:48:51,527:INFO:Starting cross validation
+2024-07-07 20:48:51,530:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2024-07-07 20:48:51,610:INFO:Calculating mean and std
+2024-07-07 20:48:51,610:INFO:Creating metrics dataframe
+2024-07-07 20:48:51,610:INFO:Uploading results into container
+2024-07-07 20:48:51,610:INFO:Uploading model into container now
+2024-07-07 20:48:51,610:INFO:_master_model_container: 18
+2024-07-07 20:48:51,610:INFO:_display_container: 2
+2024-07-07 20:48:51,610:INFO:DummyRegressor()
+2024-07-07 20:48:51,610:INFO:create_model() successfully completed......................................
+2024-07-07 20:48:51,706:INFO:SubProcess create_model() end ==================================
+2024-07-07 20:48:51,706:INFO:Creating metrics dataframe
+2024-07-07 20:48:51,711:INFO:Initializing create_model()
+2024-07-07 20:48:51,711:INFO:create_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002932BB6AA90>, estimator=GradientBoostingRegressor(random_state=3365), fold=KFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=False, predict=False, fit_kwargs={}, groups=None, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=None, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2024-07-07 20:48:51,711:INFO:Checking exceptions
+2024-07-07 20:48:51,711:INFO:Importing libraries
+2024-07-07 20:48:51,711:INFO:Copying training dataset
+2024-07-07 20:48:51,721:INFO:Defining folds
+2024-07-07 20:48:51,721:INFO:Declaring metric variables
+2024-07-07 20:48:51,721:INFO:Importing untrained model
+2024-07-07 20:48:51,721:INFO:Declaring custom model
+2024-07-07 20:48:51,722:INFO:Gradient Boosting Regressor Imported successfully
+2024-07-07 20:48:51,722:INFO:Cross validation set to False
+2024-07-07 20:48:51,722:INFO:Fitting Model
+2024-07-07 20:48:51,844:INFO:GradientBoostingRegressor(random_state=3365)
+2024-07-07 20:48:51,844:INFO:create_model() successfully completed......................................
+2024-07-07 20:48:51,947:INFO:_master_model_container: 18
+2024-07-07 20:48:51,947:INFO:_display_container: 2
+2024-07-07 20:48:51,947:INFO:GradientBoostingRegressor(random_state=3365)
+2024-07-07 20:48:51,947:INFO:compare_models() successfully completed......................................
+2024-07-07 20:48:51,964:INFO:Initializing save_model()
+2024-07-07 20:48:51,964:INFO:save_model(model=GradientBoostingRegressor(random_state=3365), model_name=best_model, prep_pipe_=Pipeline(memory=FastMemory(location=C:\Users\riddh\AppData\Local\Temp\joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Pregnancies', 'Glucose',
+                                             'BloodPressure', 'SkinThickness',
+                                             'Insulin', 'BMI',
+                                             'DiabetesPedigreeFunction',
+                                             'Age'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent')))]), verbose=True, use_case=MLUsecase.REGRESSION, kwargs={})
+2024-07-07 20:48:51,967:INFO:Adding model into prep_pipe
+2024-07-07 20:48:51,973:INFO:best_model.pkl saved in current working directory
+2024-07-07 20:48:51,978:INFO:Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Pregnancies', 'Glucose',
+                                             'BloodPressure', 'SkinThickness',
+                                             'Insulin', 'BMI',
+                                             'DiabetesPedigreeFunction',
+                                             'Age'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 GradientBoostingRegressor(random_state=3365))])
+2024-07-07 20:48:51,978:INFO:save_model() successfully completed......................................

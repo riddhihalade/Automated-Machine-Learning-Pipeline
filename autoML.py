@@ -1,9 +1,9 @@
 import streamlit as st
 import pandas as pd
 from pycaret.regression import setup, compare_models, save_model, pull
-from pandas_profiling import ProfileReport
-from streamlit_pandas_profiling import st_profile_report
 import os
+import sweetviz as sv
+
 
 if os.path.exists('dataset.csv'): 
     df = pd.read_csv('dataset.csv')
@@ -43,9 +43,13 @@ if choice == "Upload":
 
 if choice == "Profiling" and df is not None: 
     st.title("Exploratory Data Analysis")
-    profile = ProfileReport(df, explorative=True)
-    st_profile_report(profile)
-
+    report = sv.analyze(df)
+    report.show_html(filepath='report.html', open_browser=False)
+    with open('report.html', 'r') as f:
+        html = f.read()
+    st.components.v1.html(html, height=1400, width=1000)
+elif choice == "Profiling" and df is None:
+    st.warning("Please upload a dataset first.")
     
 elif choice == "Profiling" and df is None:
     st.warning("Please upload a dataset first.")
