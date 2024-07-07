@@ -16,21 +16,23 @@ with st.sidebar:
     st.title("Automated ML")
     st.info("This application helps you explore your data and train it for desired results with automated ML pipeline.")
 
-# Homepage content
-st.title("ModelForge: Automated ML Hub")
-st.markdown("""
-Welcome to the ModelForge an Automated ML application!  
-This tool helps you explore your data and build predictive models effortlessly.
-
-Choose an option from the navigation to get started:
-- **Upload**: Upload your dataset for analysis.
-- **Profiling**: Perform Exploratory Data Analysis (EDA) to understand your data.
-- **Modelling**: Train machine learning models and compare their performance.
-- **Download**: Download the best performing model for deployment.
-""")
-
 # Main content based on user choice
-choice = st.sidebar.radio("Navigation", ["Upload", "Profiling", "Modelling", "Download"])
+choice = st.sidebar.radio("Navigation", ["Home","Upload", "Profiling", "Modelling", "Download"])
+# Homepage content
+if choice == "Home":
+    st.title("ModelForge: Automated ML Hub")
+    st.markdown("""
+    Welcome to the ModelForge an Automated ML application!  
+    This application helps you explore your data and train it for desired results with automated ML pipeline.
+    It finds you the best model suited for your dataset.
+
+    Choose an option from the navigation to get started:
+    - **Upload**: Upload your dataset for analysis.
+    - **Profiling**: Perform Exploratory Data Analysis (EDA) to understand your data.
+    - **Modelling**: Train machine learning models and compare their performance.
+    - **Download**: Download the best performing model for deployment.
+    """)
+
 
 
 if choice == "Upload":
@@ -47,7 +49,7 @@ if choice == "Profiling" and df is not None:
     report.show_html(filepath='report.html', open_browser=False)
     with open('report.html', 'r') as f:
         html = f.read()
-    st.components.v1.html(html, height=1400, width=1000)
+    st.components.v1.html(html, height=1700, width=1000)
 elif choice == "Profiling" and df is None:
     st.warning("Please upload a dataset first.")
     
