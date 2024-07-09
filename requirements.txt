@@ -4,3 +4,4 @@ pycaret
 numpy
 plotly
 sweetviz
+joblib
