@@ -13,4 +13,5 @@ To get started with this project, follow the steps below:
 
 Usage
 To run the application, use the following command:
+
 streamlit run autoML.py
